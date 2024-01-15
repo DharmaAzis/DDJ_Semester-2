@@ -1,0 +1,6 @@
+Nama = "Dharma azis"
+Kelas = "TKJ  X-A"
+Jurusan = "Teknik komputer dan jaringan"
+
+print("perkenalkan nama saya", nama)
+print(" saya kelas ", kelas, "dari jurusan", jurusan)
